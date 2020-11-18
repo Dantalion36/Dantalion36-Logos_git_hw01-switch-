@@ -1,0 +1,261 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+    padding: 30px;
+    padding: 240px 0 30px;
+}
+
+
+.nav-link {
+    padding-left: 0;
+    padding-right: 0;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Proxima Nova Regular";
+    font-weight: 400;
+}
+
+.green {
+    background-color: #54d154;
+}
+
+.darkGreen {
+    background-color: #3eba3e;
+}
+
+.roundBtn {
+    border-radius: 50px;
+    border-style: hidden;
+}
+
+.subHeadColor1 {
+    color: #828181;
+}
+
+.subHeadColor2 {
+    color: #207b20;
+}
+
+.subHead {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+    padding-top: 40px;
+}
+
+.subTextColor1 {
+    color: #b7b3b3;
+}
+
+.subTextColor2 {
+    color: #2b9b2b;
+}
+
+.subText {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 5px 0 60px;
+    text-align: center;
+}
+
+.workWithUs {
+    width: 208px;
+    height: 47px;
+    color: #ffffff;
+    font-family: "Proxima Nova Regular";
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.switch {
+color: #ffffff;
+font-family: "Nautilus";
+font-size: 24px;
+font-weight: 400;
+}
+
+.searchBar {
+    width: 177px;
+    height: 27px;
+    opacity: 0.8;
+    margin-top: 5px;
+}
+
+::-moz-placeholder { 
+    opacity: 1;
+}
+
+:placeholder-shown {
+    padding-left: 13px;
+}
+
+.scroll {
+    position: absolute;
+    bottom: 12px;
+    width: 120px;
+    height: 25px;
+    background-color: #ffffff;
+    opacity: 0.7;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.scrollText {
+    display: inline;    
+    padding-right: 5px;
+}
+
+.home {
+    height: 780px;
+    background-image: url("../img/bg-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.whatWeDo {
+    padding: 0 0 73px 0;
+}
+
+.underscore1 {
+    width: 43px;
+    height: 2px;
+    background-color: #828181;
+}
+
+.underscore2 {
+    width: 43px;
+    height: 2px;
+    background-color: #207b20;
+}
+
+.workImg {
+    width: 142px;
+    height: 142px;
+    background-color: #e1f3e1;
+    border-radius: 30px;
+}
+
+.workName {
+    color: #828181;
+    font-family: "Proxima Nova Bold";
+    font-size: 24px;
+    padding: 20px 0 10px;
+}
+
+.workDescribe {
+    color: #828181;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 12px;
+}
+
+.learnMore {
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.gallery {
+    padding-bottom: 30px;
+}
+
+.moreWorkBtn {
+    width: 186px;
+    height: 40px;
+    background-color: #2b9b2b;
+    color: #fff;
+    margin: 56px 0 53px;
+}
+
+.workWithUs2 {
+    width: 175px;
+    height: 40px;
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+    font-family: "Proxima Nova Regular";
+    font-size: 19px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 27px 0;
+}
+
+.clients {
+    background-color: #f2f1f1;
+}
+
+.clientIcon img {
+    object-fit: contain;
+}
+
+.cPad {
+    padding-bottom: 40px;
+}
+
+.allClientBtn {
+    width: 186px;
+    height: 40px;
+    background-color: #dddcdc;
+    color: #a59d9d;
+    font-family: "Proxima Nova Regular";
+    font-size: 18px;
+    margin: 60px 0;
+}
+
+.member {
+    background-color: #fff;
+    border-radius: 50%;
+    width: 124px;
+    height: 124px;
+}
+
+.memberImg {
+    bottom: 0;
+}
+
+.member1 {
+    left: 14%;
+}
+
+.member2 {
+    left: 21%;
+}
+
+.member3 {
+    left: 16%;
+}
+
+.downLine {
+    width: 2px;
+    height: 77px;
+    background-color: #207b20;
+    margin: 10px 0 5px;
+}
+
+.tIcon {
+    width: 84px;
+    height: 28px;
+    background-color: #c5e9c5;
+    margin-bottom: 63px;
+}
+
+.memberName {
+    color: #ffffff;
+    font-family: "Proxima Nova Regular";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 7px;
+}
